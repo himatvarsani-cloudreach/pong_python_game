@@ -1,5 +1,6 @@
-# https://www.youtube.com/watch?v=Jsa7NmNtWTo
-#  Change version to 3.10 pyenv
+# YouTube: https://www.youtube.com/watch?v=Jsa7NmNtWTo
+# Python Environment:  Change version to 3.10 pyenv
+# Colour Chart: https://www.webucator.com/article/python-color-constants-module/
 
 import pygame
 from pygame.locals import *
@@ -30,8 +31,8 @@ speed_increase = 0
 
 
 #define colours
-bg = (50, 25, 50)
-white = (255, 255, 255)
+bg = (85,107,47)
+white = (250,235,215)
 
 
 def draw_board():
